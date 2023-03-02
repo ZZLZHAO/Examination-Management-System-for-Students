@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\adManageCompe",
+    "\\src\\components\\comment",
+    "\\src\\components\\grade",
+    "\\src\\components\\gradeteacher",
+    "\\src\\components\\Questionnaire",
+    "\\src\\plugins",
+    "\\src\\router"
+  ],
+  "SelectedNode": "\\src\\components\\adManageCompe\\ManageCompe.vue",
+  "PreviewInSolutionExplorer": false
+}
